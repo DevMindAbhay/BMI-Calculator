@@ -25,17 +25,6 @@ The BMI value is interpreted into the following categories:
 • Obese: BMI ≥ 30
 
 
-Releases
-
-No releases published
-
-
-Packages
-
-No packages published
-
-
-
 # Acknowledgements
 
 Feel free to reach out if you have any questions or feedback!
